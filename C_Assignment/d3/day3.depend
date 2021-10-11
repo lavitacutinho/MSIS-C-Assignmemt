@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1632547814 source:e:\fastrack c\day3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<math.h>
+	"d3.h"
+
+1632547718 e:\fastrack c\day3\d3.h
+
+1632547836 source:e:\fastrack c\day3\d3.c
+	"d3.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<assert.h>
+

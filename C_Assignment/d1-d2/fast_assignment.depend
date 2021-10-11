@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1632811869 source:e:\fastrack c\fast_assignment\main.c
+	<stdio.h>
+	<string.h>
+	<assert.h>
+	<math.h>
+	"assign.h"
+
+1632388847 source:e:\fastrack c\fast_assignment\assign.c
+	"assign.h"
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<assert.h>
+
+1632388893 e:\fastrack c\fast_assignment\assign.h
+

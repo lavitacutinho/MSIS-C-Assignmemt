@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1632841124 source:e:\fastrack c\d5-1\op.c
+	"op.h"
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<assert.h>
+
+1632831887 e:\fastrack c\d5-1\op.h
+
+1632815388 source:e:\fastrack c\d5-1\delete.c
+	<stdio.h>
+	<string.h>
+
+1632841975 source:e:\fastrack c\d5-1\main.c
+	"op.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<math.h>
+
+1632820588 source:e:\fastrack c\d5-1\untitled7.c
+	<stdio.h>
+	<string.h>
+

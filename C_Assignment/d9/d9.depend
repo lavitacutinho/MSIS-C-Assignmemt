@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1633460171 source:e:\fastrack c\d9\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	<string.h>
+	<conio.h>
+	"d9.h"
+
+1633459688 e:\fastrack c\d9\d9.h
+
+1633460322 source:e:\fastrack c\d9\d9.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<conio.h>
+	"d9.h"
+
+1633002375 source:e:\fastrack c\d9\create_file.c
+	<stdio.h>
+	<stdlib.h>
+
+1633098991 source:e:\fastrack c\d9\del.c
+

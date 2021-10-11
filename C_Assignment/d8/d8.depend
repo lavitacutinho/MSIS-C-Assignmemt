@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1633859507 source:e:\fastrack c\d8\d8.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"d8.h"
+
+1633873326 e:\fastrack c\d8\d8.h
+
+1633874118 source:e:\fastrack c\d8\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"d8.h"
+

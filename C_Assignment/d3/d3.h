@@ -1,0 +1,11 @@
+int binary_to_decimal(int *);
+int decimal_to_binary(int);
+int sum_of_3(int);
+int pattern_print(int);
+int digit_seven_divisor(int);
+double power_recursive(int, int );
+double factorial(int);
+int series_recursion(int,int);
+int concat(int,int);
+int square_of(int);
+float math_function(char *, double, int);
